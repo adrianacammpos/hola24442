@@ -62,9 +62,7 @@ int main(){
                 break;
             case 3:
                 cout <<"Necesita cambio de bujias\n";
-            case 4: 
-                cout << "Necesita cambio de caja de velocidades\n";
-            break;
+            
              default:
                 break;
 
